@@ -24,7 +24,7 @@ class Ftc_Testimonial extends Widget_Base {
 		return [ 'ftc-elements' ];
 	}
 
-	protected function _register_controls() {
+	protected function register_controls() {
 
 		$this->start_controls_section(
 			'section_main',
