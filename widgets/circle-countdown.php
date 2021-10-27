@@ -266,4 +266,5 @@ class Circle_Countdown_Timer extends  Widget_Base{
 }
 
 }
+/*this is cowndount*/
 Plugin::instance()->widgets_manager->register_widget_type( new Circle_Countdown_Timer() );
