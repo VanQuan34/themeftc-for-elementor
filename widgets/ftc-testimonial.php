@@ -494,7 +494,7 @@ class Ftc_Testimonial extends Widget_Base {
 
 			}
 
-			protected function content_template() {}
+			
 
 			public function render_plain_content( $instance = [] ) {}
 
